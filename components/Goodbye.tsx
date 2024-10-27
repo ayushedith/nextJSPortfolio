@@ -10,3 +10,4 @@ const Goodbye: React.FC = () => {
 };
 
 export default Goodbye;
+// TODO: add animation
