@@ -116,3 +116,4 @@ export default function PreviousWork() {
     </div>
   );
 }
+// eslint-disable-next-line react/no-unknown-property
