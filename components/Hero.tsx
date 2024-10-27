@@ -63,3 +63,4 @@ const Hero: React.FC = () => {
 };
 
 export default Hero;
+// TODO: add animation
