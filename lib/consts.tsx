@@ -4,15 +4,15 @@ import { IoDocumentTextOutline } from 'react-icons/io5';
 export const HERO_LINKS = [
   {
     icon: <FaGithub size={24} />,
-    src: 'https://github.com/NoahGdev',
+    src: 'https://github.com/ayushedith',
   },
   {
     icon: <FaLinkedin size={24} />,
-    src: 'https://linkedin.com/in/noah-gomes',
+    src: 'https://linkedin.com/in/ayushedith1',
   },
   {
     icon: <FaTwitter size={24} />,
-    src: 'https://x.com/NoxhDevs',
+    src: 'https://x.com/ayushedith',
   },
   {
     icon: <IoDocumentTextOutline size={24} />,
