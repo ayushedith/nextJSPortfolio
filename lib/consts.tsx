@@ -23,22 +23,22 @@ export const HERO_LINKS = [
 export const PROJECTS = [
   {
     id: 1,
-    imageUrl: '/previous-work/crayo.png',
+    imageUrl: '/previous-work/swelly2.png',
     dribbleLink: 'https://dribbble.com/',
   },
   {
     id: 1,
-    imageUrl: '/previous-work/clippie.png',
+    imageUrl: '/previous-work/swelly1.png',
     dribbleLink: 'https://dribbble.com/',
   },
   {
     id: 1,
-    imageUrl: '/previous-work/liquid.png',
+    imageUrl: '/previous-work/swelly3.png',
     dribbleLink: 'https://dribbble.com/',
   },
   {
     id: 1,
-    imageUrl: '/previous-work/amex.png',
+    imageUrl: '/previous-work/swelly4.png',
     dribbleLink: 'https://dribbble.com/',
   },
 ];
