@@ -11,7 +11,7 @@ const hankenGrotesk = Hanken_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: 'Noah Gomes',
+  title: 'edithdb.xyz',
   description: 'Welcome to my portfolio website, check out the source code if you like and leave a star :)',
 };
 

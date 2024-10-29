@@ -13,7 +13,19 @@ const greetings = [
   { text: 'مرحبا', language: 'Arabic' },
   { text: 'Hallo', language: 'German' },
   { text: 'Hello!', language: 'English' },
+  { text: 'Konnichiwa', language: 'Japanese' },
+  { text: 'Olá', language: 'Portuguese' },
+  { text: 'Привет', language: 'Russian' },
+  { text: 'Hej', language: 'Swedish' },
+  { text: 'Szia', language: 'Hungarian' },
+  { text: 'Merhaba', language: 'Turkish' },
+  { text: 'Salam', language: 'Azerbaijani' },
+  { text: 'Selam', language: 'Albanian' },
+  { text: 'Shalom', language: 'Hebrew' },
+  { text: 'Sawubona', language: 'Zulu' },
+  { text: 'Halo', language: 'Indonesian' }
 ];
+
 
 const AnimatedGreetings: React.FC = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
