@@ -36,7 +36,7 @@ const About: React.FC = () => {
       </div>
       <button className="flex items-center space-x-2 rounded-xl border border-[#292929] p-2 font-semibold text-[#f0f0f0] transition-all duration-300 hover:scale-105 sm:p-3">
         <IoDocumentTextOutline size={20} className="sm:text-2xl" />{' '}
-        <span className="text-sm sm:text-base">View my resume :Not workingyet:</span>
+        <span className="text-sm sm:text-base">View my resume :Not uploaded:</span>
       </button>
     </div>
   );

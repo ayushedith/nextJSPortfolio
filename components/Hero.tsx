@@ -28,11 +28,11 @@ const Hero: React.FC = () => {
         style={{ transform: `scale(${scale})` }}
       >
         <p className="mb-4 text-4xl sm:text-5xl md:text-6xl">
-          Hey, I&apos;m <span className="underline">Noah</span>
+          Hey, I&apos;m <span className="underline">Edith</span> <span className="line-through">Ayush</span>
         </p>
-        <p className="mb-8 text-5xl font-bold sm:text-7xl md:text-9xl">Software Engineer</p>
+        <p className="mb-8 text-5xl font-bold sm:text-7xl md:text-9xl">I build things and I love it.</p>
         <p className="mx-auto mb-8 max-w-2xl text-xl opacity-80 sm:text-2xl">
-          I build stuff and I love doing so :{')'}
+          {'('}I&apos;m a Software Engineer based in India.{')'}
         </p>
 
         <div className="flex space-x-4">
@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
         </div>
 
         <div className="mt-8">
-          <Link href="https://github.com/NoahGdev/Next-Portfolio" className="text-2xl font-bold hover:underline">
+          <Link href="https://github.com/ayushedith/nextJSPortfolio" className="text-2xl font-bold hover:underline">
             Source Code <GrFormNextLink className="inline" />
           </Link>
         </div>
