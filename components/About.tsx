@@ -14,13 +14,13 @@ const About: React.FC = () => {
           <h1 className="text-3xl font-extrabold sm:text-5xl md:text-6xl lg:text-7xl">FullStack Engineer</h1>
           <div className="space-y-2 text-sm text-[#8b8b8b] sm:text-base md:text-lg lg:text-xl">
             <p>
-              After teaching myself to code I then started doing freelance work {' '}
-              <span className="font-bold">from concept to profits.</span> I also went to NSIT of Bihar
-              where I got my diploma degree, now i am doing my bachelor from MMDU.
+              After teaching myself to code I then started doing freelance work{' '}
+              <span className="font-bold">from concept to profits.</span> I also went to NSIT of Bihar where I got my
+              diploma degree, now i am doing my bachelor from MMDU.
             </p>
             <p>
-              I then started working at {' '}
-              <Link href={'https://swelly.xyz'} className="font-bold underline underline-offset-4" target='_blank'>
+              I then started working at{' '}
+              <Link href={'https://swelly.xyz'} className="font-bold underline underline-offset-4" target="_blank">
                 swelly.xyz
               </Link>{' '}
               while also juggling starting a new project {'->'}{' '}
@@ -31,7 +31,7 @@ const About: React.FC = () => {
           </div>
         </div>
         <div className="aspect-video h-full w-full overflow-hidden rounded-xl border border-[#292929] md:aspect-square md:w-fit">
-          <Image src="/pfp.jpg" alt="Noah" width={295} height={295} className="h-full w-full object-cover" />
+          <Image src="/pfp.jpg" alt="edith" width={295} height={295} className="h-full w-full object-cover" />
         </div>
       </div>
       <button className="flex items-center space-x-2 rounded-xl border border-[#292929] p-2 font-semibold text-[#f0f0f0] transition-all duration-300 hover:scale-105 sm:p-3">
