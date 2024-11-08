@@ -31,7 +31,7 @@ const About: React.FC = () => {
           </div>
         </div>
         <div className="aspect-video h-full w-full overflow-hidden rounded-xl border border-[#292929] md:aspect-square md:w-fit">
-          <Image src="/pfp.jpg" alt="edith" width={295} height={295} className="h-full w-full object-cover" />
+          <Image src="/pfp.png" alt="edith" width={295} height={295} className="h-full w-full object-cover" />
         </div>
       </div>
       <button className="flex items-center space-x-2 rounded-xl border border-[#292929] p-2 font-semibold text-[#f0f0f0] transition-all duration-300 hover:scale-105 sm:p-3">
